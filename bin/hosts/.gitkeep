@@ -1,1 +1,9 @@
 
+
+ PyQt5
+ Pillow
+ PyAutoGUI
+ pytest-shutil
+ cryptography
+ pynput
+ pygame
