@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/loseys/Oblivion/"><img src="https://imgur.com/gallery/3KHqYlh" width=160 height=150 alt="BlackMamba"></a>
   <br>
-  BlackMamba
+  White Lion
   <br>
 </h1>
 
