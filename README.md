@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/loseys/Oblivion/"><img src="https://imgur.com/gallery/3KHqYlh" width=160 height=150 alt="BlackMamba"></a>
+  <a href="https://github.com/loseys/Oblivion/"><img src="https://imgur.com/gallery/3KHqYlh" width=160 height=150 alt="White Lion"></a>
   <br>
   White Lion
   <br>
