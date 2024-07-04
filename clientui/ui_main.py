@@ -9,7 +9,7 @@
 >1284 - GUI configuration.
 1284 - Start of server configuration and buttons configuration
 """
-from cryptography.fernet import Fernet
+from cryptography.fernet import Fernet # type: ignore
 from importlib import reload
 from clientui.vstrm_server import *
 from clientui.control import *
